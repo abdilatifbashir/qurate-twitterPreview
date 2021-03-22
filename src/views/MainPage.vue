@@ -64,7 +64,7 @@
           <img class="h-44 w-96 rounded-lg	" src="../assets/gym1.jpg" />
           <div class="flex justify-between gap-2">
             <!-----footer here ----->
-            <div class="flex mr-10 ">
+            <div class="flex mr-10 pt-1">
               <span
                 ><svg
                   class="h-6 text-gray-400"
@@ -83,7 +83,7 @@
               <span class="bg-gray-300 w-4 h-2 rounded-full mt-2 ml-2"></span>
             </div>
 
-            <div class="flex mr-10">
+            <div class="flex mr-10 pt-1">
               <span
                 ><svg
                   class="w-6 text-gray-400"
@@ -102,7 +102,7 @@
               <span class="bg-gray-300 w-4 h-2 rounded-full mt-2 ml-2"></span>
             </div>
 
-            <div class="flex mr-10">
+            <div class="flex mr-10 pt-1">
               <span
                 ><svg
                   class=" w-6 text-gray-400"
@@ -120,7 +120,7 @@
               ></span>
               <span class="bg-gray-300 w-4 h-2 rounded-full mt-2 ml-2"></span>
             </div>
-            <div class="flex mr-10">
+            <div class="flex mr-10 pt-1">
               <span
                 ><svg
                   class=" w-4 pt-1 text-gray-400"
